@@ -1,0 +1,57 @@
+{
+  "status" : "success",
+  "body" : [ {
+    "_id" : "5dd53b9f5a1ebcae053308f3",
+    "title" : "testing",
+    "owner_uuid" : null,
+    "draftTopic" : true,
+    "uuid" : "b3dba1b4-bc9c-45e2-ac3b-44e16fc65807",
+    "created_timestamp" : 1574255519730,
+    "last_modified_timestamp" : 1574255519730,
+    "status" : "draft",
+    "deleted" : false,
+    "version" : 1.0,
+    "parent_version" : 0.0
+  }, {
+    "_id" : "5d3b0549d0d9f8a456f7aa4d",
+    "title" : "testing",
+    "owner_uuid" : null,
+    "draftTopic" : false,
+    "uuid" : "c7b051d4-74a1-4475-a386-e86bc67a4cc8",
+    "created_timestamp" : 1564149065996,
+    "last_modified_timestamp" : 1564149065996,
+    "status" : "draft",
+    "deleted" : false,
+    "item_refs" : [ {
+      "type" : "assessment",
+      "subtype" : "diagram",
+      "uuid" : "30f5b176-c7bf-452a-9959-72915f7fb444",
+      "inAssignment" : false
+    }, {
+      "type" : "assessment",
+      "subtype" : "fib",
+      "uuid" : "04bcbc05-5048-4095-a572-6f478565cc93",
+      "inAssignment" : false
+    }, {
+      "type" : "assessment",
+      "subtype" : "fib",
+      "uuid" : "0be2611c-0556-4bdc-b7fe-22d5b8bc5bd4",
+      "inAssignment" : false
+    } ]
+  }, {
+    "_id" : "5d3af6d9d0d9f8a456f7aa4b",
+    "title" : "tet",
+    "draftTopic" : true,
+    "uuid" : "b808bf74-839c-423f-89fd-5a6225f87572",
+    "created_timestamp" : 1564145369681,
+    "last_modified_timestamp" : 1564145369681,
+    "status" : "draft",
+    "deleted" : false,
+    "item_refs" : [ {
+      "type" : "assessment",
+      "subtype" : "fib",
+      "uuid" : "d97c9d0d-9cc6-4e35-9a6e-82977b650e2e",
+      "inAssignment" : false
+    } ]
+  } ]
+}
